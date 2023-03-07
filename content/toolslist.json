@@ -1,0 +1,20 @@
+[
+{
+    "name": "CyberChef",
+    "url": "https://gchq.github.io/CyberChef/",
+    "notes": "Application web de chiffrement, encodage, compression...",
+    "tags" : "Autres"
+},
+{
+    "name": "CrackStation",
+    "url": "https://crackstation.net/",
+    "notes": "Application web de comparaison de hash (MD5, SHA512...).",
+    "tags" : "Cryptographie"
+}, 
+{
+    "name": "Apéri'Solve",
+    "url": "https://www.aperisolve.com/",
+    "notes": "Application web d'opération de steganographie basique.",
+    "tags" : "Steganographie"
+}
+]
