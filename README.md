@@ -3,8 +3,8 @@ Website to store links to tools
 
 ## Docker
 
-### BUILD
+### Build
 ```docker build -t webserver-tools webserver-tools/```
 
-### RUN
+### Run
 ```docker run --name web-tools -d -p 8080:80 webserver-tools:latest```
